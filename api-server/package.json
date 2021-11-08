@@ -9,7 +9,7 @@
     "author": "YukJiSoo",
     "dependencies": {
         "@babel/runtime": "^7.6.2",
-        "apollo-server": "^2.9.6",
+        "apollo-server": "^2.25.3",
         "crypto": "^1.0.1",
         "csv-parser": "^2.3.1",
         "debug": "~2.6.9",
